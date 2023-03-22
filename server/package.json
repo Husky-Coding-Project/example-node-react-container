@@ -1,0 +1,16 @@
+{
+  "name": "example-node-react-container",
+  "version": "1.0.0",
+  "description": "An example of a simple Node.js and React web app for a Husky Coding Project guide",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elliot Schumacher",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
